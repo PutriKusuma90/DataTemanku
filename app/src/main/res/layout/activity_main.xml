@@ -47,24 +47,21 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/save"
                 android:layout_weight="1"
-                android:text="SIMPAN"
-                android:backgroundTint="#4CAF50"/>
+                android:text="SIMPAN"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/show_data"
                 android:layout_weight="1"
-                android:text="LIHAT DATA"
-                android:backgroundTint="#4CAF50"/>
+                android:text="LIHAT DATA"/>
         </LinearLayout>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/logout"
-            android:text="LOGOUT"
-            android:backgroundTint="#4CAF50"/>
+            android:text="LOGOUT"/>
     </LinearLayout>
 
 </RelativeLayout>
